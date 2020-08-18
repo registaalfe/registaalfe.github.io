@@ -1,0 +1,52 @@
+.slider h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	margin-top: 150px;
+	font-weight: bold;
+	font-family: Viga;
+}
+
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	font-family: Times New Roman;
+}
+
+section {
+	padding: 20px 0;
+}
+
+.parallax-container {
+	height: 240px;
+}
+
+.parallax img {
+	filter: opacity(42%);
+}
+
+.clients p {
+	text-align: center;
+	font-family: Book Antiqua;
+	font-weight: 550;
+}
+
+.footer {
+	padding-top: 40px;
+	padding-bottom: 1px;
+}
+
+.footer .col {
+	border-right: 2px solid black;
+}
+.footer .col:last-child{
+	border-right: none;
+}
+
+.footerbottom p {
+	margin-top: 0px;
+	padding-top: 15px;
+	margin-bottom: 0px;
+	padding-bottom: 15px;	
+	text-align: center;
+	font-size: 16px;
+	font-family: New York;
+}
